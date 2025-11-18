@@ -1,4 +1,6 @@
 Requirements↓
+
+
 Intel CPU (11th Generation or newer) in the main PC where the DMA card is installed.
 Intel VMD (Virtual RAID on CPU) must be enabled in BIOS.
 Specific Intel drivers must be installed on Windows.
